@@ -11,7 +11,7 @@ angular-lodash-module - Use Lodash from an Angular Controller or Service
 
 2. Add the module as a dependency in your App definition
   ```javascript
-  var myapp = angular.module('MyApp', ['underscore'])
+  var myapp = angular.module('MyApp', ['lodash'])
   ```
 
 3. To use, add as an injected dependency to your Controller/Service and it is ready to use
@@ -19,7 +19,7 @@ angular-lodash-module - Use Lodash from an Angular Controller or Service
   angular.module('MyApp')
   .controller('MyCtrl', function ($scope, _) {
   ...
-  //Use underscore
+  //Use lodash
    _.each(...);
   ...
   ```
