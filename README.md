@@ -1,13 +1,13 @@
-angular-underscore-module - Use Underscore from an Angular Controller or Service
+angular-lodash-module - Use Lodash from an Angular Controller or Service
 ======
 
 
 ## Usage
 
 1. get it 
-   ```bower install angular-underscore-module
+   ```bower install angular-lodash-module
    ```
-1. Add angular-underscore-module.js to your main file (index.html)
+1. Add angular-lodash-module.js to your main file (index.html)
 
 2. Add the module as a dependency in your App definition
   ```javascript
@@ -26,9 +26,9 @@ angular-underscore-module - Use Underscore from an Angular Controller or Service
 
   References:
   
- Underscore:
- http://underscorejs.org/
+ Lodash:
+ http://lodash.com/
  Stackoverflow:
  http://stackoverflow.com/questions/14968297/use-underscore-inside-controllers
  Github:
- https://github.com/andresesfm/angular-underscore-module
+ https://github.com/kmc059000/angular-lodash-module
