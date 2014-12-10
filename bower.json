@@ -3,5 +3,6 @@
   "version": "1.0.2",
   "main": "./angular-lodash-module.js",
   "dependencies": {
+    "lodash": "~2.4.1"
   }
 }
