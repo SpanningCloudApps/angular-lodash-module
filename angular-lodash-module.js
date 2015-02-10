@@ -3,6 +3,5 @@
  * Adapted from https://github.com/andresesfm/angular-underscore-module
  * Homepage https://github.com/kmc059000
  */
-angular.module('lodash', []).factory('_', function() {
-    return window._; // assumes lodash has already been loaded on the page
-});
+ // assumes lodash has already been loaded on the page
+angular.module('lodash', []).constant('_', window._);
