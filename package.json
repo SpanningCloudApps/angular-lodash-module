@@ -1,0 +1,19 @@
+{
+  "name": "angular-lodash-module",
+  "version": "0.1.3",
+  "description": "angular-lodash-module - Use Lodash from an Angular Controller or Service ======",
+  "main": "angular-lodash-module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpanningCloudApps/angular-lodash-module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpanningCloudApps/angular-lodash-module/issues"
+  },
+  "homepage": "https://github.com/SpanningCloudApps/angular-lodash-module#readme"
+}
